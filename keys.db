@@ -1,1 +1,9 @@
+-- Insert multiple keys with their expiration times
+INSERT INTO keys (key, expiration) VALUES
+('gowehr8992303-buegb394g30w', 100800000),
+('oewhtuebruhe-2u2b32g89d23', 1008000000),
+('igeowhf93u43uhv0h-83u43b3h', 1008000000);
+('igeowhf93u43uhv0h-83u43b3h', 1008000000);
+('igeowhf93u43uhv0h-83u43b3h', 1008000000);
+('igeowhf93u43uhv0h-823242ge3b3h', 10080);
 
